@@ -1,0 +1,17 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,MF,MAXIMUM_PACKAGE_HEIGHT,Price,Check_prices,STANDARD,PARTREV,SnapEDA_Link,MP,Description_1,Availability,MANUFACTURER,Comment
+"C1, C3, C4",3,100n,C_0402_1005Metric,,,,smt,Unpolarized capacitor,,,,,,,,,,,,
+"C2, C5",2,22u,C_0805_2012Metric,,,,smt,Unpolarized capacitor,,,,,,,,,,,,
+"D1, D4, D5, D6",4,LED,LED_0603_1608Metric,,,,smt,Light emitting diode,,,,,,,,,,,,
+"D2, D3",2,ESD5Zxx,D_SOD-523,,,,smt,"ESD Protection Diode, SOD-523",,,,,,,,,,,,
+"J2, J3",2,Conn_01x08_Pin,PinHeader_1x08_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x08, script generated",,,,,,,,,,,,
+"R1, R2, R3, R4, R5",5,1K5,R_0402_1005Metric,,,,smt,Resistor,,,,,,,,,,,,
+U1,1,ICM-42688-P,PQFN50P300X250X97-14N,LGA-14 TDK InvenSense,,,smt,,TDK InvenSense,0.97mm,None,https://www.snapeda.com/parts/ICM-42688-P/TDK+InvenSense/view-part/?ref=eda,IPC-7351B,1.2,https://www.snapeda.com/parts/ICM-42688-P/TDK+InvenSense/view-part/?ref=snap,ICM-42688-P,"
+                        
+                            Accelerometer, Gyroscope, 6 Axis Sensor - Output
+                        
+",In Stock,TDK InvenSense,
+U2,1,MS5611-01BA03,SON125P500X300X100-8N,Package,,,smt,,TE Connectivity,,None,https://www.snapeda.com/parts/MS5611-01BA03/TE+Connectivity+Alcoswitch+Switches/view-part/?ref=eda,IPC7351B,06/2017,https://www.snapeda.com/parts/MS5611-01BA03/TE+Connectivity+Alcoswitch+Switches/view-part/?ref=snap,MS5611-01BA03,"
+                        
+                            Pressure Sensor 0.15PSI ~ 17.4PSI (1kPa ~ 120kPa) Absolute - 24 b 8-SMD
+                        
+",In Stock,TE Connectivity,CAT-BLPS0036

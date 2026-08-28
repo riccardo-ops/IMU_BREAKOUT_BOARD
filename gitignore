@@ -1,0 +1,43 @@
+# =====================================================
+#  KiCad - IMU_BREAKOUT_BOARD
+#  Principio: versiona le sorgenti, ignora cio' che si
+#  rigenera da esse.
+# =====================================================
+
+# ---- KiCad: file locali e cache ----
+# preferenze locali dell'utente, non del progetto
+*.kicad_prl
+# backup automatici di KiCad
+*-backups/
+# cache footprint, rigenerata da KiCad
+fp-info-cache
+*.bak
+*.bck
+*-bak
+_autosave-*
+~*.*
+# lock file creato quando il progetto e' aperto
+*.lck
+
+# ---- Output rigenerabili dai sorgenti ----
+# netlist, rigenerata dallo schematico
+*.net
+# report DRC/ERC
+*.rpt
+# BOM generato dal fabrication toolkit
+bom.csv
+
+# ---- File di fabbricazione (rigenerabili) ----
+*.drl
+*.gbr
+*.gbrjob
+Produzione/
+production/
+pcbway_production/
+
+# ---- Archivi ----
+*.zip
+
+# ---- Sistema ----
+.DS_Store
+Thumbs.db

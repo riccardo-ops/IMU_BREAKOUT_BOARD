@@ -1,0 +1,79 @@
+** Drc report for breakout_board_imu.kicad_pcb **
+** Created on 2026-08-21T20:44:11+0200 **
+
+** Found 23 DRC violations **
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,7000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(188,0000 mm, 153,5000 mm): Testo C.S. "GND" su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,7000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(188,0000 mm, 151,0000 mm): Testo C.S. "GND" su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,7000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(186,5000 mm, 148,5000 mm): Testo C.S. "MISO AUX" su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,7000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(186,5000 mm, 146,0000 mm): Testo C.S. "CS AUX" su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,7000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(186,5000 mm, 143,5000 mm): Testo C.S. "INT AUX" su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,7000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(186,5000 mm, 141,0000 mm): Testo C.S. "SCLK AUX" su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,7000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(186,5000 mm, 138,5000 mm): Testo C.S. "MOSI AUX" su F.Silkscreen
+[text_thickness]: Spessore testo fuori campo (vincoli impostazioni scheda spessore testo serigrafia spess. min 0,0800 mm; effettivo 0,0750 mm)
+    Rule: vincoli impostazioni scheda spessore testo serigrafia; warning
+    @(209,0000 mm, 120,5000 mm): Testo C.S. "GND" su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(209,0000 mm, 120,5000 mm): Testo C.S. "GND" su F.Silkscreen
+[text_thickness]: Spessore testo fuori campo (vincoli impostazioni scheda spessore testo serigrafia spess. min 0,0800 mm; effettivo 0,0750 mm)
+    Rule: vincoli impostazioni scheda spessore testo serigrafia; warning
+    @(206,0000 mm, 120,5000 mm): Testo C.S. "LED 1" su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(206,0000 mm, 120,5000 mm): Testo C.S. "LED 1" su F.Silkscreen
+[text_thickness]: Spessore testo fuori campo (vincoli impostazioni scheda spessore testo serigrafia spess. min 0,0800 mm; effettivo 0,0750 mm)
+    Rule: vincoli impostazioni scheda spessore testo serigrafia; warning
+    @(204,0000 mm, 120,5000 mm): Testo C.S. "CS" su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(204,0000 mm, 120,5000 mm): Testo C.S. "CS" su F.Silkscreen
+[text_thickness]: Spessore testo fuori campo (vincoli impostazioni scheda spessore testo serigrafia spess. min 0,0800 mm; effettivo 0,0750 mm)
+    Rule: vincoli impostazioni scheda spessore testo serigrafia; warning
+    @(201,5000 mm, 120,5000 mm): Testo C.S. "SCLK" su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(201,5000 mm, 120,5000 mm): Testo C.S. "SCLK" su F.Silkscreen
+[text_thickness]: Spessore testo fuori campo (vincoli impostazioni scheda spessore testo serigrafia spess. min 0,0800 mm; effettivo 0,0750 mm)
+    Rule: vincoli impostazioni scheda spessore testo serigrafia; warning
+    @(199,0000 mm, 120,5000 mm): Testo C.S. "MOSI " su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(199,0000 mm, 120,5000 mm): Testo C.S. "MOSI " su F.Silkscreen
+[text_thickness]: Spessore testo fuori campo (vincoli impostazioni scheda spessore testo serigrafia spess. min 0,0800 mm; effettivo 0,0750 mm)
+    Rule: vincoli impostazioni scheda spessore testo serigrafia; warning
+    @(196,5000 mm, 120,5000 mm): Testo C.S. "MISO " su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(196,5000 mm, 120,5000 mm): Testo C.S. "MISO " su F.Silkscreen
+[text_thickness]: Spessore testo fuori campo (vincoli impostazioni scheda spessore testo serigrafia spess. min 0,0800 mm; effettivo 0,0750 mm)
+    Rule: vincoli impostazioni scheda spessore testo serigrafia; warning
+    @(194,0000 mm, 120,5000 mm): Testo C.S. "INT 1 " su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(194,0000 mm, 120,5000 mm): Testo C.S. "INT 1 " su F.Silkscreen
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,6400 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(199,5000 mm, 130,0000 mm): Riferimento 'U1'
+[lib_footprint_mismatch]: I'impronta 'SON125P500X300X100-8N' non corrisponde alla copia nella libreria 'PRESSURE_SENSOR_M5611'.
+    Local override; warning
+    @(221,8000 mm, 137,8750 mm): Impronta U2
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
